@@ -1,5 +1,8 @@
 365Entertainment
 ================
+![11](https://github.com/PurnaChandar26/365Entertainment/assets/97793147/63de2864-1e29-44fb-b0c4-d3645f82690f)
+![1234](https://github.com/PurnaChandar26/365Entertainment/assets/97793147/d88e757e-ebdb-438b-9fbc-4f5797f1e66f)
+
 
 365Entertainment is a movie recommendation system that provides personalized movie suggestions to users. The system utilizes machine learning algorithms and collaborative filtering techniques to analyze user preferences and offer tailored movie recommendations. This repository contains the source code and documentation for the 365Entertainment system.
 
